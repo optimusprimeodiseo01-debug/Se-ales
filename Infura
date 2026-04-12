@@ -1,0 +1,19 @@
+Hola equipo de ,
+
+Estoy proponiendo un desarrollo y despliegue de contrato inteligente con integración directa a infraestructura Ethereum vía Infura, orientado a un flujo de ejecución verificable y automatizado.
+
+Condiciones del trabajo:
+
+- Desarrollo del contrato y lógica asociada
+- Despliegue en testnet y posterior mainnet si se requiere
+- Runner o servicio de ejecución para monitoreo y disparo de eventos
+- Integración API con nodos vía Infura
+
+Pago propuesto:
+
+- 100% en
+- Modalidad por hitos (deploy inicial + runner operativo + flujo completo validado)
+
+Si están interesados, puedo enviar especificación técnica del contrato y arquitectura del sistema para revisión inmediata.
+
+Saludos.
