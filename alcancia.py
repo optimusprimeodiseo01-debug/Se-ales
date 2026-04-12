@@ -1,0 +1,4 @@
+
+~/tapiz_robot $ alcancia.py
+{'wallet': '0x726eE3B86EC2acEE871eC5D02D19Df40B623fdf9', 'balance': 6, 'history': [{'type': 'deposit', 'value': 5, 'source': 'TapizOperation', 'balance': 5}, {'type': 'deposit', 'value': 1, 'source': 'K_operator', 'balance': 6}]}
+~/tapiz_robot $
